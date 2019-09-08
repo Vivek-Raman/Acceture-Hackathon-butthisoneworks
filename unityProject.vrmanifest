@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.acceturehackathonbutthisoneworks.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Pausch\\ViveksShitStayAwayyyy (pls dont hate)\\Acceture-Hackathon-butthisoneworks\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Acceture-Hackathon-butthisoneworks [Testing]"
+        }
+      }
+    }
+  ]
+}

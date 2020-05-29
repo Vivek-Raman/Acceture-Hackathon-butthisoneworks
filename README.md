@@ -1,4 +1,16 @@
-# MaTrEx - Exploring Specialized Skill Training In Virtual Reality
+<!DOCTYPE html>
+<html>
+<body>
+<h1 align="center"> Exploring Specialized Skill Training In Virtual Reality - MaTrEx </h1>
+
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true" >
+</p>
+
+## Check out the videos first :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3pdhybyA_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UeloGbP3wS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out the videos first :
 https://youtu.be/l3pdhybyA_k
@@ -19,3 +31,7 @@ malfunction, allowing the professional to interact with and explain the working 
 machine, thus making it a form of Assisted Reality powered by Digital Twins. This will not
 only provide training opportunities but also provide Ad-hoc maintenance opportunities, using
 the real time data provided by Industrial Internet of Things (IIOT) devices.
+
+</body>
+</html>
+

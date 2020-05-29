@@ -3,24 +3,18 @@
 <body>
 <h1 align="center"> Exploring Specialized Skill Training In Virtual Reality - MaTrEx </h1>
 
-<p align="center">
-<img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true" >
-</p>
-
-## Check out the videos first :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l3pdhybyA_k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UeloGbP3wS0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Check out the videos first :
-https://youtu.be/l3pdhybyA_k
-https://youtu.be/UeloGbP3wS0
-
 Poster selected for presentation at India's largest human-computer interaction conference.
 Researched on the advantages and limitations of skill training in Virtual Reality.
 
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true">
+</p>
 
-[Idea]
+## Check out the videos first :
+[<img src="https://img.youtube.com/vi/l3pdhybyA_k/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/l3pdhybyA_k)
+[<img src="https://img.youtube.com/vi/UeloGbP3wS0/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/UeloGbP3wS0)
+
+## Idea:
 
 We propose development of robust Virtual Reality training programs, offering a way for
 skilled professionals to train the on-site technicians and to perform remote diagnostics over

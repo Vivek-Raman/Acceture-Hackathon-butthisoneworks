@@ -6,6 +6,8 @@
 Poster selected for presentation at India's largest human-computer interaction conference.
 Researched on the advantages and limitations of skill training in Virtual Reality.
 
+Featured in India HCI Accepted Work webpage: http://www.indiahci.org/2019/accepted-work/
+
 <p align="center">
 <img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true">
 </p>

@@ -13,11 +13,12 @@ Paper link: https://easychair.org/conferences/submission?a=23289527;track=244088
 <img src="https://github.com/ReanSchwarzer1/Acceture-Hackathon-MaTrEx/blob/master/Research%20Paper/Research%20Paper.png?raw=true">
 </p>
 
-## Check out the videos first :
+
+<h2 align="center"> Check out the videos first </h2>
 [<img src="https://img.youtube.com/vi/l3pdhybyA_k/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/l3pdhybyA_k)
 [<img src="https://img.youtube.com/vi/UeloGbP3wS0/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/UeloGbP3wS0)
 
-## Idea:
+<h2 align="center"> Idea </h2>
 
 We propose development of robust Virtual Reality training programs, offering a way for
 skilled professionals to train the on-site technicians and to perform remote diagnostics over

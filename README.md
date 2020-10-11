@@ -14,11 +14,11 @@ Paper link: https://easychair.org/conferences/submission?a=23289527;track=244088
 </p>
 
 
-<h2 align="center"> Check out the videos first </h2>
+# Check out the videos first 
 [<img src="https://img.youtube.com/vi/l3pdhybyA_k/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/l3pdhybyA_k)
 [<img src="https://img.youtube.com/vi/UeloGbP3wS0/maxresdefault.jpg" width="80%" height="80%">](https://youtu.be/UeloGbP3wS0)
 
-<h2 align="center"> Idea </h2>
+# Idea 
 
 We propose development of robust Virtual Reality training programs, offering a way for
 skilled professionals to train the on-site technicians and to perform remote diagnostics over
